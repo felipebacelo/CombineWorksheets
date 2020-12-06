@@ -48,9 +48,8 @@ Será necessário selecionar a _Pasta de Arquivos Excel_, onde estão localizado
 Após a realização de todo processo, aparecerá a mensagem de confirmação com as informações sobre o arquivo gerado:
 
 ![Image1](https://github.com/felipebacelo/CombineWorksheets/blob/main/Images/Image2.jpg)
-
 ***
-### Exemplo de Macro Utilizada
+### Exemplo de Função Utilizada
 
 ```
 Public Function PickFolder() As String
