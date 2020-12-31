@@ -51,7 +51,7 @@ Após a realização de todo processo, aparecerá a mensagem de confirmação co
 ***
 ### Exemplo de Função Utilizada
 
-```
+```vba
 Public Function PickFolder() As String
 
     If Application.FileDialog(4).Show Then
